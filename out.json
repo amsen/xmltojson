@@ -1,0 +1,474 @@
+{
+    "Report_Data": {
+        "-wd": "urn:com.workday.report/CR_INT002_Workday_TIP_Worker_FullFile",
+        "Report_Entry": {
+            "First_Day_of_Work": "2014-12-01-08:00",
+            "All_Positions_group": {
+                "Position_ID": "P_01080506",
+                "Effective_Date_for_Position": "2014-12-01-08:00",
+                "Position_Title": "Farm Försörjning - leg recept",
+                "Primary_Job": "1",
+                "Business_Title": "Farm Försörjning - leg recept",
+                "Position_Worker_Type": {
+                    "ID": [
+                        {
+                            "#content": "7e26e8efcd5e0147f7b1a9a6ba323209",
+                            "-type": "WID"
+                        },
+                        {
+                            "#content": "Regular",
+                            "-type": "Employee_Type_ID"
+                        }
+                    ],
+                    "-Descriptor": "Regular"
+                },
+                "Time_Type": {
+                    "-Descriptor": "Full time",
+                    "ID": [
+                        {
+                            "#content": "34e23f7bd7800120bf0aa029002e5900",
+                            "-type": "WID"
+                        },
+                        {
+                            "#content": "Full_time",
+                            "-type": "Position_Time_Type_ID"
+                        }
+                    ]
+                },
+                "Job_Exempt": "0",
+                "FTE": "100"
+            },
+            "Job_Classification_-_All_Positions_group": {
+                "Job_Classification": {
+                    "-Descriptor": "3213 - Farmaceut, receptarie (Standard för svensk yrkesklassificering (SSYK 2012)-Sweden)",
+                    "ID": [
+                        {
+                            "#content": "1800f618d0cb01bc78fab3d6bf007e50",
+                            "-type": "WID"
+                        },
+                        {
+                            "#content": "SWE_SSYK_3213",
+                            "-type": "Job_Classification_Reference_ID"
+                        }
+                    ]
+                },
+                "Job_Classification_Group": {
+                    "-Descriptor": "Standard för svensk yrkesklassificering (SSYK 2012)",
+                    "ID": [
+                        {
+                            "#content": "1800f618d0cb01f7f3f3afd6bf005950",
+                            "-type": "WID"
+                        },
+                        {
+                            "#content": "SWE_SSYK",
+                            "-type": "Job_Classification_Group_ID"
+                        }
+                    ]
+                }
+            },
+            "Job_Profile": {
+                "-Descriptor": "Farm Försörjning - leg recept",
+                "ID": [
+                    {
+                        "#content": "1800f618d0cb01aecf0bbf19cb008753",
+                        "-type": "WID"
+                    },
+                    {
+                        "#content": "3183",
+                        "-type": "Job_Profile_ID"
+                    }
+                ]
+            },
+            "Manager_Level_01": {
+                "-Descriptor": "Inga-Lill Kronholm",
+                "ID": [
+                    {
+                        "#content": "1800f618d0cb015a314179e78d01feb5",
+                        "-type": "WID"
+                    },
+                    {
+                        "#content": "1008180",
+                        "-type": "Employee_ID"
+                    }
+                ]
+            },
+            "Manager_-_Level_01_group": {
+                "Manager_Employee_ID": "1008180",
+                "Manager_Full_Legal_Name": "Inga-Lill Kronholm"
+            },
+            "Legal_Last_Name": "Resne",
+            "Preferred_Name_in_General_Display_Format": "Idaet Resne",
+            "Active_Status": "Yes",
+            "Assigned_Organization_group": [
+                {
+                    "Organization": {
+                        "-Descriptor": "10 Apoteket AB",
+                        "ID": [
+                            {
+                                "#content": "28fdd7cbd778015fb229eb51a1012929",
+                                "-type": "WID"
+                            },
+                            {
+                                "#content": "104",
+                                "-type": "Organization_Reference_ID"
+                            },
+                            {
+                                "#content": "104",
+                                "-type": "Company_Reference_ID"
+                            }
+                        ]
+                    },
+                    "Organization_Type": {
+                        "-Descriptor": "Company",
+                        "ID": [
+                            {
+                                "#content": "34e23f7bd7800183aa069d29002e3800",
+                                "-type": "WID"
+                            },
+                            {
+                                "#content": "Company",
+                                "-type": "Organization_Type_ID"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Organization": {
+                        "-Descriptor": "19700001 Källan Ny",
+                        "ID": [
+                            {
+                                "#content": "28fdd7cbd778015f8d115d67a301c24a",
+                                "-type": "WID"
+                            },
+                            {
+                                "#content": "19700001",
+                                "-type": "Organization_Reference_ID"
+                            },
+                            {
+                                "#content": "19700001",
+                                "-type": "Cost_Center_Reference_ID"
+                            }
+                        ]
+                    },
+                    "Organization_Type": {
+                        "-Descriptor": "Cost Center",
+                        "ID": [
+                            {
+                                "#content": "34e23f7bd7800125c81b9d29002e3900",
+                                "-type": "WID"
+                            },
+                            {
+                                "#content": "Cost_Center",
+                                "-type": "Organization_Type_ID"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "Job_Category": {
+                "-Descriptor": "Verksamheten",
+                "ID": [
+                    {
+                        "#content": "946f1e2e314001e374f168374d34c104",
+                        "-type": "WID"
+                    },
+                    {
+                        "#content": "Verksamheten",
+                        "-type": "Job_Category_ID"
+                    }
+                ]
+            },
+            "Legal_First_Name": "Idaet",
+            "Addresses_group": [
+                {
+                    "Usage_Type": {
+                        "-Descriptor": "Business",
+                        "ID": [
+                            {
+                                "#content": "4fae289a7fe541b098ca9448e462ff6b",
+                                "-type": "WID"
+                            },
+                            {
+                                "#content": "BUSINESS",
+                                "-type": "Communication_Usage_Type_ID"
+                            }
+                        ]
+                    },
+                    "Address_Line_1": "Kronetorpsvägen 2",
+                    "City": "Arlöv",
+                    "Postal_Code": "99999",
+                    "Country_Name": "Sweden"
+                },
+                {
+                    "Usage_Type": {
+                        "-Descriptor": "Home",
+                        "ID": [
+                            {
+                                "#content": "836cf00ef5974ac08b786079866c946f",
+                                "-type": "WID"
+                            },
+                            {
+                                "#content": "HOME",
+                                "-type": "Communication_Usage_Type_ID"
+                            }
+                        ]
+                    },
+                    "Address_Line_1": "MUNKHÄTTEGATAN 30 A",
+                    "City": "MALMÖ",
+                    "Postal_Code": "21456",
+                    "Country_Name": "Sweden"
+                }
+            ],
+            "Phone_Numbers_group": [
+                {
+                    "Area_Code": "73",
+                    "Phone_Number": "(73) 2127751",
+                    "Phone_Usage_Type": {
+                        "-Descriptor": "Home",
+                        "ID": [
+                            {
+                                "#content": "836cf00ef5974ac08b786079866c946f",
+                                "-type": "WID"
+                            },
+                            {
+                                "#content": "HOME",
+                                "-type": "Communication_Usage_Type_ID"
+                            }
+                        ]
+                    },
+                    "Phone_Device_Type": {
+                        "-Descriptor": "Landline",
+                        "ID": [
+                            {
+                                "#content": "7e26e8efcd5e010d8e1a42bec9326209",
+                                "-type": "WID"
+                            },
+                            {
+                                "#content": "Landline",
+                                "-type": "Phone_Device_Type_ID"
+                            }
+                        ]
+                    },
+                    "Is_Primary": "1",
+                    "Formatted_Phone_Number": "+46 73 212 77 51",
+                    "Country_Code": "46"
+                },
+                {
+                    "Area_Code": "10",
+                    "Phone_Number": "(10) 4476821",
+                    "Phone_Usage_Type": {
+                        "-Descriptor": "Work",
+                        "ID": [
+                            {
+                                "#content": "1f27f250dfaa4724ab1e1617174281e4",
+                                "-type": "WID"
+                            },
+                            {
+                                "#content": "WORK",
+                                "-type": "Communication_Usage_Type_ID"
+                            }
+                        ]
+                    },
+                    "Phone_Device_Type": {
+                        "-Descriptor": "Landline",
+                        "ID": [
+                            {
+                                "#content": "7e26e8efcd5e010d8e1a42bec9326209",
+                                "-type": "WID"
+                            },
+                            {
+                                "#content": "Landline",
+                                "-type": "Phone_Device_Type_ID"
+                            }
+                        ]
+                    },
+                    "Phone_Visibility": {
+                        "-Descriptor": "Public",
+                        "ID": [
+                            {
+                                "#content": "db4bd892446c11de98360015c5e6daf6",
+                                "-type": "WID"
+                            },
+                            {
+                                "#content": "PUBLIC",
+                                "-type": "Communication_Usage_Access_ID"
+                            }
+                        ]
+                    },
+                    "Is_Primary": "1",
+                    "Formatted_Phone_Number": "+46 10 447 68 21",
+                    "Country_Code": "46"
+                }
+            ],
+            "Preferred_First_Name": "Idaet",
+            "Employee_ID": "984877",
+            "Full_Legal_Name": "Idaet Resne",
+            "Preferred_Name_in_Reporting_Display_Format": "Resne, Idaet",
+            "Emails_group": {
+                "Email_Usage_Type": {
+                    "-Descriptor": "Work",
+                    "ID": [
+                        {
+                            "#content": "1f27f250dfaa4724ab1e1617174281e4",
+                            "-type": "WID"
+                        },
+                        {
+                            "#content": "WORK",
+                            "-type": "Communication_Usage_Type_ID"
+                        }
+                    ]
+                },
+                "Email_Visibility": {
+                    "-Descriptor": "Public",
+                    "ID": [
+                        {
+                            "#content": "db4bd892446c11de98360015c5e6daf6",
+                            "-type": "WID"
+                        },
+                        {
+                            "#content": "PUBLIC",
+                            "-type": "Communication_Usage_Access_ID"
+                        }
+                    ]
+                },
+                "Is_Primary": "1",
+                "Email_Address": "Idaet.Resne@apoteket.se"
+            },
+            "Employee_group": {
+                "Contract_Position_ID": "P_01080506",
+                "Contract_Type": {
+                    "ID": [
+                        {
+                            "#content": "946f1e2e314001884fa2cf55d434ae11",
+                            "-type": "WID"
+                        },
+                        {
+                            "#content": "Employee",
+                            "-type": "Employee_Contract_Type_ID"
+                        }
+                    ],
+                    "-Descriptor": "Employee"
+                },
+                "Contract_Start_Date": "2014-12-01-08:00",
+                "Contract_Status": {
+                    "-Descriptor": "Open",
+                    "ID": [
+                        {
+                            "#content": "946f1e2e314001e9cf5c73a3d434b411",
+                            "-type": "WID"
+                        },
+                        {
+                            "#content": "Employee_Contract_Status_Open",
+                            "-type": "Employee_Contract_Status_ID"
+                        }
+                    ]
+                }
+            },
+            "Licenses_group": {
+                "License_ID_Type": {
+                    "-Descriptor": "Receptarie",
+                    "ID": [
+                        {
+                            "#content": "946f1e2e314001aa3591fa8fd334a511",
+                            "-type": "WID"
+                        },
+                        {
+                            "#content": "Receptarie",
+                            "-type": "License_ID_Type_ID"
+                        }
+                    ]
+                },
+                "Issued_by_Authority": {
+                    "-Descriptor": "Socialstyrelsen",
+                    "ID": [
+                        {
+                            "#content": "946f1e2e314001eb2ae997e590341e0d",
+                            "-type": "WID"
+                        },
+                        {
+                            "#content": "Socialstyrelsen",
+                            "-type": "Authority_ID"
+                        }
+                    ]
+                },
+                "Identification_Number": "467714"
+            },
+            "User_Name": "IDRE201",
+            "Management_Level": {
+                "-Descriptor": "Medarbetare",
+                "ID": [
+                    {
+                        "#content": "946f1e2e31400120ebdef45344342102",
+                        "-type": "WID"
+                    },
+                    {
+                        "#content": "Medarbetare",
+                        "-type": "Management_Level_ID"
+                    }
+                ]
+            },
+            "Terminated": "0",
+            "Preferred_Last_Name": "Resne",
+            "Date_Of_Birth": "1962-02-12-08:00",
+            "Active_Status_Date": "2020-04-01T22:57:42.434-07:00",
+            "Original_Hire_Date": "2014-12-01-08:00",
+            "Job_Family": {
+                "-Descriptor": "Farmaceuter",
+                "ID": [
+                    {
+                        "#content": "946f1e2e3140019b4e0406185a34d605",
+                        "-type": "WID"
+                    },
+                    {
+                        "#content": "Farmaceuter",
+                        "-type": "Job_Family_ID"
+                    }
+                ]
+            },
+            "Gender": {
+                "-Descriptor": "Female",
+                "ID": [
+                    {
+                        "#content": "7e26e8efcd5e01d9f9cf9c9907332e0a",
+                        "-type": "WID"
+                    },
+                    {
+                        "#content": "Female",
+                        "-type": "Gender_Code"
+                    }
+                ]
+            },
+            "Legal_Name_in_Reporting_Display_Format": "Resne, Idaet",
+            "Preferred_Name_group": "",
+            "Hire_Date": "2014-12-01-08:00",
+            "Is_Retiree": "0",
+            "Seniority_Date": "2014-12-01-08:00",
+            "National_Identifiers_group": {
+                "National_ID_Number": "196202129448",
+                "National_ID_Type": "SWE-PN",
+                "National_ID_Country": {
+                    "-Descriptor": "Sweden",
+                    "ID": [
+                        {
+                            "#content": "6a800a4736884df5826858d435650f45",
+                            "-type": "WID"
+                        },
+                        {
+                            "#content": "SE",
+                            "-type": "ISO_3166-1_Alpha-2_Code"
+                        },
+                        {
+                            "#content": "SWE",
+                            "-type": "ISO_3166-1_Alpha-3_Code"
+                        },
+                        {
+                            "#content": "752",
+                            "-type": "ISO_3166-1_Numeric-3_Code"
+                        }
+                    ]
+                }
+            },
+            "Legal_Name_in_General_Display_Format": "Idaet Resne"
+        }
+    }
+}

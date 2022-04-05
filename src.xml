@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<wd:Report_Data xmlns:wd="urn:com.workday.report/CR_INT002_Workday_TIP_Worker_FullFile">
+   <wd:Report_Entry>
+      <wd:User_Name>IDRE201</wd:User_Name>
+      <wd:Employee_ID>984877</wd:Employee_ID>
+      <wd:Legal_First_Name>Idaet</wd:Legal_First_Name>
+      <wd:Legal_Last_Name>Resne</wd:Legal_Last_Name>
+      <wd:Legal_Name_in_General_Display_Format>Idaet Resne</wd:Legal_Name_in_General_Display_Format>
+      <wd:Legal_Name_in_Reporting_Display_Format>Resne, Idaet</wd:Legal_Name_in_Reporting_Display_Format>
+      <wd:Full_Legal_Name>Idaet Resne</wd:Full_Legal_Name>
+      <wd:Preferred_First_Name>Idaet</wd:Preferred_First_Name>
+      <wd:Preferred_Last_Name>Resne</wd:Preferred_Last_Name>
+      <wd:Preferred_Name_group/>
+      <wd:Preferred_Name_in_General_Display_Format>Idaet Resne</wd:Preferred_Name_in_General_Display_Format>
+      <wd:Preferred_Name_in_Reporting_Display_Format>Resne, Idaet</wd:Preferred_Name_in_Reporting_Display_Format>
+      <wd:Gender wd:Descriptor="Female">
+         <wd:ID wd:type="WID">7e26e8efcd5e01d9f9cf9c9907332e0a</wd:ID>
+         <wd:ID wd:type="Gender_Code">Female</wd:ID>
+      </wd:Gender>
+      <wd:Date_Of_Birth>1962-02-12-08:00</wd:Date_Of_Birth>
+      <wd:Addresses_group>
+         <wd:Usage_Type wd:Descriptor="Business">
+            <wd:ID wd:type="WID">4fae289a7fe541b098ca9448e462ff6b</wd:ID>
+            <wd:ID wd:type="Communication_Usage_Type_ID">BUSINESS</wd:ID>
+         </wd:Usage_Type>
+         <wd:Address_Line_1>Kronetorpsvägen 2</wd:Address_Line_1>
+         <wd:City>Arlöv</wd:City>
+         <wd:Postal_Code>99999</wd:Postal_Code>
+         <wd:Country_Name>Sweden</wd:Country_Name>
+      </wd:Addresses_group>
+      <wd:Addresses_group>
+         <wd:Usage_Type wd:Descriptor="Home">
+            <wd:ID wd:type="WID">836cf00ef5974ac08b786079866c946f</wd:ID>
+            <wd:ID wd:type="Communication_Usage_Type_ID">HOME</wd:ID>
+         </wd:Usage_Type>
+         <wd:Address_Line_1>MUNKHÄTTEGATAN 30 A</wd:Address_Line_1>
+         <wd:City>MALMÖ</wd:City>
+         <wd:Postal_Code>21456</wd:Postal_Code>
+         <wd:Country_Name>Sweden</wd:Country_Name>
+      </wd:Addresses_group>
+      <wd:Phone_Numbers_group>
+         <wd:Phone_Usage_Type wd:Descriptor="Home">
+            <wd:ID wd:type="WID">836cf00ef5974ac08b786079866c946f</wd:ID>
+            <wd:ID wd:type="Communication_Usage_Type_ID">HOME</wd:ID>
+         </wd:Phone_Usage_Type>
+         <wd:Phone_Device_Type wd:Descriptor="Landline">
+            <wd:ID wd:type="WID">7e26e8efcd5e010d8e1a42bec9326209</wd:ID>
+            <wd:ID wd:type="Phone_Device_Type_ID">Landline</wd:ID>
+         </wd:Phone_Device_Type>
+         <wd:Is_Primary>1</wd:Is_Primary>
+         <wd:Formatted_Phone_Number>+46 73 212 77 51</wd:Formatted_Phone_Number>
+         <wd:Country_Code>46</wd:Country_Code>
+         <wd:Area_Code>73</wd:Area_Code>
+         <wd:Phone_Number>(73) 2127751</wd:Phone_Number>
+      </wd:Phone_Numbers_group>
+      <wd:Phone_Numbers_group>
+         <wd:Phone_Usage_Type wd:Descriptor="Work">
+            <wd:ID wd:type="WID">1f27f250dfaa4724ab1e1617174281e4</wd:ID>
+            <wd:ID wd:type="Communication_Usage_Type_ID">WORK</wd:ID>
+         </wd:Phone_Usage_Type>
+         <wd:Phone_Device_Type wd:Descriptor="Landline">
+            <wd:ID wd:type="WID">7e26e8efcd5e010d8e1a42bec9326209</wd:ID>
+            <wd:ID wd:type="Phone_Device_Type_ID">Landline</wd:ID>
+         </wd:Phone_Device_Type>
+         <wd:Phone_Visibility wd:Descriptor="Public">
+            <wd:ID wd:type="WID">db4bd892446c11de98360015c5e6daf6</wd:ID>
+            <wd:ID wd:type="Communication_Usage_Access_ID">PUBLIC</wd:ID>
+         </wd:Phone_Visibility>
+         <wd:Is_Primary>1</wd:Is_Primary>
+         <wd:Formatted_Phone_Number>+46 10 447 68 21</wd:Formatted_Phone_Number>
+         <wd:Country_Code>46</wd:Country_Code>
+         <wd:Area_Code>10</wd:Area_Code>
+         <wd:Phone_Number>(10) 4476821</wd:Phone_Number>
+      </wd:Phone_Numbers_group>
+      <wd:Emails_group>
+         <wd:Email_Usage_Type wd:Descriptor="Work">
+            <wd:ID wd:type="WID">1f27f250dfaa4724ab1e1617174281e4</wd:ID>
+            <wd:ID wd:type="Communication_Usage_Type_ID">WORK</wd:ID>
+         </wd:Email_Usage_Type>
+         <wd:Email_Visibility wd:Descriptor="Public">
+            <wd:ID wd:type="WID">db4bd892446c11de98360015c5e6daf6</wd:ID>
+            <wd:ID wd:type="Communication_Usage_Access_ID">PUBLIC</wd:ID>
+         </wd:Email_Visibility>
+         <wd:Is_Primary>1</wd:Is_Primary>
+         <wd:Email_Address>Idaet.Resne@apoteket.se</wd:Email_Address>
+      </wd:Emails_group>
+      <wd:Active_Status>Yes</wd:Active_Status>
+      <wd:Active_Status_Date>2020-04-01T22:57:42.434-07:00</wd:Active_Status_Date>
+      <wd:Hire_Date>2014-12-01-08:00</wd:Hire_Date>
+      <wd:Original_Hire_Date>2014-12-01-08:00</wd:Original_Hire_Date>
+      <wd:First_Day_of_Work>2014-12-01-08:00</wd:First_Day_of_Work>
+      <wd:Employee_group>
+         <wd:Contract_Position_ID>P_01080506</wd:Contract_Position_ID>
+         <wd:Contract_Type wd:Descriptor="Employee">
+            <wd:ID wd:type="WID">946f1e2e314001884fa2cf55d434ae11</wd:ID>
+            <wd:ID wd:type="Employee_Contract_Type_ID">Employee</wd:ID>
+         </wd:Contract_Type>
+         <wd:Contract_Start_Date>2014-12-01-08:00</wd:Contract_Start_Date>
+         <wd:Contract_Status wd:Descriptor="Open">
+            <wd:ID wd:type="WID">946f1e2e314001e9cf5c73a3d434b411</wd:ID>
+            <wd:ID wd:type="Employee_Contract_Status_ID">Employee_Contract_Status_Open</wd:ID>
+         </wd:Contract_Status>
+      </wd:Employee_group>
+      <wd:Is_Retiree>0</wd:Is_Retiree>
+      <wd:Seniority_Date>2014-12-01-08:00</wd:Seniority_Date>
+      <wd:Terminated>0</wd:Terminated>
+      <wd:All_Positions_group>
+         <wd:Position_ID>P_01080506</wd:Position_ID>
+         <wd:Effective_Date_for_Position>2014-12-01-08:00</wd:Effective_Date_for_Position>
+         <wd:Primary_Job>1</wd:Primary_Job>
+         <wd:Position_Title>Farm Försörjning - leg recept</wd:Position_Title>
+         <wd:Business_Title>Farm Försörjning - leg recept</wd:Business_Title>
+         <wd:Position_Worker_Type wd:Descriptor="Regular">
+            <wd:ID wd:type="WID">7e26e8efcd5e0147f7b1a9a6ba323209</wd:ID>
+            <wd:ID wd:type="Employee_Type_ID">Regular</wd:ID>
+         </wd:Position_Worker_Type>
+         <wd:Time_Type wd:Descriptor="Full time">
+            <wd:ID wd:type="WID">34e23f7bd7800120bf0aa029002e5900</wd:ID>
+            <wd:ID wd:type="Position_Time_Type_ID">Full_time</wd:ID>
+         </wd:Time_Type>
+         <wd:Job_Exempt>0</wd:Job_Exempt>
+         <wd:FTE>100</wd:FTE>
+      </wd:All_Positions_group>
+      <wd:Job_Classification_-_All_Positions_group>
+         <wd:Job_Classification wd:Descriptor="3213 - Farmaceut, receptarie (Standard för svensk yrkesklassificering (SSYK 2012)-Sweden)">
+            <wd:ID wd:type="WID">1800f618d0cb01bc78fab3d6bf007e50</wd:ID>
+            <wd:ID wd:type="Job_Classification_Reference_ID">SWE_SSYK_3213</wd:ID>
+         </wd:Job_Classification>
+         <wd:Job_Classification_Group wd:Descriptor="Standard för svensk yrkesklassificering (SSYK 2012)">
+            <wd:ID wd:type="WID">1800f618d0cb01f7f3f3afd6bf005950</wd:ID>
+            <wd:ID wd:type="Job_Classification_Group_ID">SWE_SSYK</wd:ID>
+         </wd:Job_Classification_Group>
+      </wd:Job_Classification_-_All_Positions_group>
+      <wd:Assigned_Organization_group>
+         <wd:Organization wd:Descriptor="10 Apoteket AB">
+            <wd:ID wd:type="WID">28fdd7cbd778015fb229eb51a1012929</wd:ID>
+            <wd:ID wd:type="Organization_Reference_ID">104</wd:ID>
+            <wd:ID wd:type="Company_Reference_ID">104</wd:ID>
+         </wd:Organization>
+         <wd:Organization_Type wd:Descriptor="Company">
+            <wd:ID wd:type="WID">34e23f7bd7800183aa069d29002e3800</wd:ID>
+            <wd:ID wd:type="Organization_Type_ID">Company</wd:ID>
+         </wd:Organization_Type>
+      </wd:Assigned_Organization_group>
+      <wd:Assigned_Organization_group>
+         <wd:Organization wd:Descriptor="19700001 Källan Ny">
+            <wd:ID wd:type="WID">28fdd7cbd778015f8d115d67a301c24a</wd:ID>
+            <wd:ID wd:type="Organization_Reference_ID">19700001</wd:ID>
+            <wd:ID wd:type="Cost_Center_Reference_ID">19700001</wd:ID>
+         </wd:Organization>
+         <wd:Organization_Type wd:Descriptor="Cost Center">
+            <wd:ID wd:type="WID">34e23f7bd7800125c81b9d29002e3900</wd:ID>
+            <wd:ID wd:type="Organization_Type_ID">Cost_Center</wd:ID>
+         </wd:Organization_Type>
+      </wd:Assigned_Organization_group>
+      <wd:Job_Profile wd:Descriptor="Farm Försörjning - leg recept">
+         <wd:ID wd:type="WID">1800f618d0cb01aecf0bbf19cb008753</wd:ID>
+         <wd:ID wd:type="Job_Profile_ID">3183</wd:ID>
+      </wd:Job_Profile>
+      <wd:Management_Level wd:Descriptor="Medarbetare">
+         <wd:ID wd:type="WID">946f1e2e31400120ebdef45344342102</wd:ID>
+         <wd:ID wd:type="Management_Level_ID">Medarbetare</wd:ID>
+      </wd:Management_Level>
+      <wd:Job_Category wd:Descriptor="Verksamheten">
+         <wd:ID wd:type="WID">946f1e2e314001e374f168374d34c104</wd:ID>
+         <wd:ID wd:type="Job_Category_ID">Verksamheten</wd:ID>
+      </wd:Job_Category>
+      <wd:Job_Family wd:Descriptor="Farmaceuter">
+         <wd:ID wd:type="WID">946f1e2e3140019b4e0406185a34d605</wd:ID>
+         <wd:ID wd:type="Job_Family_ID">Farmaceuter</wd:ID>
+      </wd:Job_Family>
+      <wd:Manager_Level_01 wd:Descriptor="Inga-Lill Kronholm">
+         <wd:ID wd:type="WID">1800f618d0cb015a314179e78d01feb5</wd:ID>
+         <wd:ID wd:type="Employee_ID">1008180</wd:ID>
+      </wd:Manager_Level_01>
+      <wd:Manager_-_Level_01_group>
+         <wd:Manager_Employee_ID>1008180</wd:Manager_Employee_ID>
+         <wd:Manager_Full_Legal_Name>Inga-Lill Kronholm</wd:Manager_Full_Legal_Name>
+      </wd:Manager_-_Level_01_group>
+      <wd:National_Identifiers_group>
+         <wd:National_ID_Number>196202129448</wd:National_ID_Number>
+         <wd:National_ID_Type>SWE-PN</wd:National_ID_Type>
+         <wd:National_ID_Country wd:Descriptor="Sweden">
+            <wd:ID wd:type="WID">6a800a4736884df5826858d435650f45</wd:ID>
+            <wd:ID wd:type="ISO_3166-1_Alpha-2_Code">SE</wd:ID>
+            <wd:ID wd:type="ISO_3166-1_Alpha-3_Code">SWE</wd:ID>
+            <wd:ID wd:type="ISO_3166-1_Numeric-3_Code">752</wd:ID>
+         </wd:National_ID_Country>
+      </wd:National_Identifiers_group>
+      <wd:Licenses_group>
+         <wd:Identification_Number>467714</wd:Identification_Number>
+         <wd:License_ID_Type wd:Descriptor="Receptarie">
+            <wd:ID wd:type="WID">946f1e2e314001aa3591fa8fd334a511</wd:ID>
+            <wd:ID wd:type="License_ID_Type_ID">Receptarie</wd:ID>
+         </wd:License_ID_Type>
+         <wd:Issued_by_Authority wd:Descriptor="Socialstyrelsen">
+            <wd:ID wd:type="WID">946f1e2e314001eb2ae997e590341e0d</wd:ID>
+            <wd:ID wd:type="Authority_ID">Socialstyrelsen</wd:ID>
+         </wd:Issued_by_Authority>
+      </wd:Licenses_group>
+   </wd:Report_Entry>
+</wd:Report_Data>
